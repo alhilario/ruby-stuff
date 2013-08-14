@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 puts "Digite un texto: "
 text = gets.chomp
 
