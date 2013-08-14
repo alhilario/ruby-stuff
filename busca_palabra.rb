@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 puts "Digite un parrafo: "
 text = gets.chomp
 puts "Digite una palabra a buscar: "
