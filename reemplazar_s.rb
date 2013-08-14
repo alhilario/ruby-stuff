@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 =begin
 Probado reemplazar las s digitadas por th
 Y pensado en hacer algunas mejores
