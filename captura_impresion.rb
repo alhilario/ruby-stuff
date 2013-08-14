@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 #Prueba de captura e Impresion  
 print "¿Cual es su nombre?"
 first_name = gets.chomp
