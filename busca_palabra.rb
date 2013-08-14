@@ -9,6 +9,6 @@ words.each do |word|
     if word != redact
         print word + " "
     else
-        print "REDACTED " 
+        print "REDACTADO " 
     end
 end
