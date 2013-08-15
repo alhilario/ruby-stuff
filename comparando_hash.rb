@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 require 'benchmark'
 
 string_AZ = Hash[("a".."z").to_a.zip((1..26).to_a)]
