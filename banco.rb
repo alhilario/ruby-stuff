@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 class Account
     attr_reader :name
     attr_reader :balance
